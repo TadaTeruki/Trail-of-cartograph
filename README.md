@@ -113,7 +113,7 @@ ___
 ___
 
 終<br>
-Copyright 2016-2022 多田 瑛貴(Tada Teruki)<br>
+Copyright (c) 2016-2022 多田 瑛貴(Tada Teruki)<br>
 
 
 
